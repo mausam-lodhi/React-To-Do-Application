@@ -1,1 +1,10 @@
-node_modules
+# Ignore dependencies and cache files
+node_modules/
+.cache/
+.next/
+dist/
+build/
+
+# Ignore logs and environment files
+*.log
+.env
