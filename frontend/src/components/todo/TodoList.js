@@ -17,14 +17,7 @@ import {
   Grid,
   Button
 } from '@mui/material';
-import {
-  Delete as DeleteIcon,
-  CheckCircle as CheckCircleIcon,
-  RadioButtonUnchecked as UncheckedIcon,
-  WbSunny as WbSunnyIcon,
-  Sort as SortIcon,
-  FilterList as FilterIcon
-} from '@mui/icons-material';
+import { Delete as DeleteIcon, CheckCircle as CheckCircleIcon, RadioButtonUnchecked as UncheckedIcon, WbSunny as WbSunnyIcon } from "@mui/icons-material";
 import {
   deleteTask,
   toggleTask,

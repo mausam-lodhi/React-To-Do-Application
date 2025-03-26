@@ -18,7 +18,7 @@ const TodoInput = () => {
   const dispatch = useDispatch();
   const loading = useSelector(state => state.todos.loading);
   const error = useSelector(state => state.todos.error);
-  
+
   const [task, setTask] = useState('');
   const [priority, setPriority] = useState('medium');
   const [city, setCity] = useState('');
