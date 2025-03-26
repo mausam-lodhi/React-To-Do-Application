@@ -124,3 +124,7 @@ frontend/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+![Image](https://github.com/user-attachments/assets/54451512-a47d-4047-bd8e-b3d01156490c)
+![Image](https://github.com/user-attachments/assets/a4a7b4ae-f5ff-4335-88dc-b5290055c16f)
